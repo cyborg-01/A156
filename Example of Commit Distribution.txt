@@ -1,0 +1,77 @@
+ Example of Commit Distribution:
+
+Team Member 1 (Developer 1):
+
+1. **Commit Message:** *"Initial setup of repository and folder structure"*
+   - **Explanation:** This is the foundational commit where the project structure is set up, including directories for code, data, and documentation.
+
+2. **Commit Message:** *"Created data cleaning script for preprocessing"*
+   - **Explanation:** Developed the script to clean and preprocess the raw data, addressing missing values and outliers.
+
+3. **Commit Message:** *"Implemented initial analysis for unemployment rates by region"*
+   - **Explanation:** Conducted exploratory data analysis (EDA) to understand trends in unemployment rates by region.
+
+4. **Commit Message:** *"Added data visualization: box plot of unemployment rates"*
+   - **Explanation:** Created and committed a box plot to visualize unemployment rates based on economic activity levels.
+
+5. **Commit Message:** *"Refined data cleaning process and removed duplicates"*
+   - **Explanation:** Improved the data cleaning script by removing duplicate entries and optimizing data processing.
+
+
+#### Team Member 2 (Developer 2):
+
+1. **Commit Message:** *"Developed R script for two-sample t-test analysis"*
+   - **Explanation:** Created the script to perform statistical analysis using a two-sample t-test on the unemployment data.
+
+2. **Commit Message:** *"Updated report with findings from t-test analysis"*
+   - **Explanation:** Added the results of the t-test analysis to the report, including the p-value and interpretation.
+
+3. **Commit Message:** *"Cleaned and formatted the dataset for statistical analysis"*
+   - **Explanation:** Ensured the dataset was in the correct format for running statistical tests, focusing on economic activity and unemployment rates.
+
+4. **Commit Message:** *"Refined report structure and added conclusion"*
+   - **Explanation:** Improved the clarity and flow of the report and added a conclusion based on the findings.
+
+5. **Commit Message:** *"Fixed bug in statistical analysis script"*
+   - **Explanation:** Debugged and resolved an issue in the statistical analysis code to ensure accurate results.
+
+---
+
+#### Team Member 3 (Developer 3):
+
+
+1. **Commit Message:** *"Created the initial draft of the project report"*
+   - **Explanation:** Created the basic structure of the project report, including introduction, background, and objectives.
+
+2. **Commit Message:** *"Added references and literature review section to report"*
+   - **Explanation:** Included a literature review section citing relevant academic papers on unemployment and its societal impacts.
+
+3. **Commit Message:** *"Updated project visualization section with comments"*
+   - **Explanation:** Added clarifications and explanations to the visualizations in the report, improving readability.
+
+4. **Commit Message:** *"Integrated GitHub with continuous integration tool for automated testing"*
+   - **Explanation:** Set up a continuous integration (CI) tool for automating testing and ensuring code quality.
+
+5. **Commit Message:** *"Final revisions to report, added appendix and acknowledgements"*
+   - **Explanation:** Completed the report with final revisions, including an appendix for the GitHub log and acknowledgements for contributors.
+
+---
+
+#### Team Member 4 (Developer 4):
+
+1. **Commit Message:** *"Set up the project repository and initialized README"*
+   - **Explanation:** Created the project repository, added the initial `README` file, and outlined the project objectives and setup instructions.
+
+2. **Commit Message:** *"Added initial project data files"*
+   - **Explanation:** Uploaded the raw data files required for the analysis.
+
+3. **Commit Message:** *"Updated README with project details and installation instructions"*
+   - **Explanation:** Enhanced the `README` to include detailed instructions on how to run the code and set up the project environment.
+
+4. **Commit Message:** *"Refactored data cleaning script for improved efficiency"*
+   - **Explanation:** Refined the data cleaning process to make it more efficient by optimizing loops and functions.
+
+5. **Commit Message:** *"Finalized project repository with proper file organization"*
+   - **Explanation:** Ensured that the project files were well-organized and completed the final repository structure for submission.
+
+---
