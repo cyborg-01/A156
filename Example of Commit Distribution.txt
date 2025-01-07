@@ -1,6 +1,6 @@
  Example of Commit Distribution:
 
-Team Member 1 (Developer 1):
+Muhammad Hashaam (Developer 1):
 
 1. **Commit Message:** *"Initial setup of repository and folder structure"*
    - **Explanation:** This is the foundational commit where the project structure is set up, including directories for code, data, and documentation.
@@ -18,7 +18,7 @@ Team Member 1 (Developer 1):
    - **Explanation:** Improved the data cleaning script by removing duplicate entries and optimizing data processing.
 
 
-#### Team Member 2 (Developer 2):
+ Roshandin Gajju and  Muhammad Zeeshan (Developer 2 Developer 4):
 
 1. **Commit Message:** *"Developed R script for two-sample t-test analysis"*
    - **Explanation:** Created the script to perform statistical analysis using a two-sample t-test on the unemployment data.
@@ -37,7 +37,7 @@ Team Member 1 (Developer 1):
 
 ---
 
-#### Team Member 3 (Developer 3):
+Romin Dharmeshbhai Patel (Developer 3):
 
 
 1. **Commit Message:** *"Created the initial draft of the project report"*
@@ -57,7 +57,7 @@ Team Member 1 (Developer 1):
 
 ---
 
-#### Team Member 4 (Developer 4):
+ Rohit Kumar Thummar (Developer 4):
 
 1. **Commit Message:** *"Set up the project repository and initialized README"*
    - **Explanation:** Created the project repository, added the initial `README` file, and outlined the project objectives and setup instructions.
@@ -74,4 +74,3 @@ Team Member 1 (Developer 1):
 5. **Commit Message:** *"Finalized project repository with proper file organization"*
    - **Explanation:** Ensured that the project files were well-organized and completed the final repository structure for submission.
 
----
